@@ -16,11 +16,12 @@ jobs:
       - name: Azure Login
         uses: azure/login@v1
         with:
-          creds: ${{ secrets.AZURE_CREDENTIALS }}
+          creds: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6577964D555848BF98BCAFDE926F082E }}
 
       - name: 'Deploy to Azure Web App'
         uses: azure/webapps-deploy@v2
         with:
           app-name: 'HRMT2'
           slot-name: 'Production'
-          package: ./src
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6577964D555848BF98BCAFDE926F082E }}
+          package: '.'
