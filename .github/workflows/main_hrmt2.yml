@@ -24,11 +24,14 @@ jobs:
       - name: npm install, build, and test
         run: |
           npm install
-          npm run build --if-present
-          npm run test --if-present
+          npm run build --if-present --prefix src
+          npm run test --if-present --prefix src
 
       - name: Zip artifact for deployment
-        run: zip release.zip ./* -r
+        run: zip release.zip ./src/* -r
+
+      - name: Unzip artifact for deployment
+        run: unzip release.zip -d ./src/
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v3
@@ -52,6 +55,15 @@ jobs:
       - name: Unzip artifact for deployment
         run: unzip release.zip
 
+#      - name: 'Deploy to Azure Web App'
+#        id: deploy-to-webapp
+#        uses: azure/webapps-deploy@v2
+#        with:
+#          app-name: 'HRMT2'
+#          slot-name: 'Production'
+#          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6577964D555848BF98BCAFDE926F082E }}
+#          package: .
+
       - name: 'Deploy to Azure Web App'
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v2
@@ -59,4 +71,4 @@ jobs:
           app-name: 'HRMT2'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6577964D555848BF98BCAFDE926F082E }}
-          package: .
+          package: ./src
