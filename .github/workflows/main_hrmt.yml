@@ -54,4 +54,4 @@ jobs:
           app-name: 'HRMT'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6EABEA6382704408AFC40248F4D0C1D3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B0D1C407877546B191202C9A477F1F85 }}
