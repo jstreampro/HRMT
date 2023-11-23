@@ -10,7 +10,7 @@ const list = [
     image: "ambridge%20-%20logo.png",
   },
   {
-    name: "are international",
+    name: "Care international",
     denounced: false,
     image: "are%20international.png",
   },
@@ -25,32 +25,32 @@ const list = [
     image: "atholic%20relief%20services%202.png",
   },
   {
-    name: "AVE THE CHILDREN 3",
+    name: "Save The Children",
     denounced: false,
     image: "AVE%20THE%20CHILDREN%203.png",
   },
   {
-    name: "awcett society uk1",
+    name: "Fawcett Society UK",
     denounced: false,
     image: "awcett%20society%20uk1.png",
   },
   {
-    name: "AWID2",
+    name: "AWID",
     denounced: true,
     image: "AWID2.png",
   },
   {
-    name: "cl - logo",
+    name: "UCL",
     denounced: false,
     image: "cl%20-%20logo.png",
   },
   {
-    name: "CTION AID 2",
+    name: "Actionaid",
     denounced: false,
     image: "CTION%20AID%202.png",
   },
   {
-    name: "e7675f42f713055b49595da18fcfca42",
+    name: "Standford University",
     denounced: false,
     image: "e7675f42f713055b49595da18fcfca42.png",
   },
@@ -60,17 +60,17 @@ const list = [
     image: "EE%20Network%20for%20Gender%20Issues.png",
   },
   {
-    name: "eministeerium",
+    name: "Feministeerium",
     denounced: false,
     image: "eministeerium.png",
   },
   {
-    name: "enter for Reproductive Rights",
+    name: "Center for Reproductive Rights",
     denounced: false,
     image: "enter%20for%20Reproductive%20Rights.png",
   },
   {
-    name: "ings college london - logo_",
+    name: "King's College London",
     denounced: false,
     image: "ings%20college%20london%20-%20logo_.png",
   },
@@ -80,12 +80,12 @@ const list = [
     image: "ise%20Up%20-%20Logo.png",
   },
   {
-    name: "isters uncut",
+    name: "Sisters Uncut",
     denounced: false,
     image: "isters%20uncut.png",
   },
   {
-    name: "it_logo8 copy",
+    name: "MIT",
     denounced: false,
     image: "it_logo8%20copy.png",
   },
@@ -95,37 +95,37 @@ const list = [
     image: "iversity-of-southern-california-logo.png",
   },
   {
-    name: "l-algemeen-internationaal-rgb-color",
+    name: "Universiteit Leiden",
     denounced: false,
     image: "l-algemeen-internationaal-rgb-color.png",
   },
   {
-    name: "lan-international",
+    name: "Plan International",
     denounced: false,
     image: "lan-international.png",
   },
   {
-    name: "LOBAL FUND FOR WOMEN",
+    name: "Global Fund For Women",
     denounced: false,
     image: "LOBAL%20FUND%20FOR%20WOMEN.png",
   },
   {
-    name: "mnesty-candle -3",
+    name: "Amnesty",
     denounced: false,
     image: "mnesty-candle%20-3.png",
   },
   {
-    name: "mperial college london - logo_",
+    name: "Imperial College London",
     denounced: false,
     image: "mperial%20college%20london%20-%20logo_.png",
   },
   {
-    name: "n_women",
+    name: "UN Women",
     denounced: false,
     image: "n_women.png",
   },
   {
-    name: "NFPA",
+    name: "UNFPA",
     denounced: false,
     image: "NFPA.png",
   },
@@ -135,7 +135,7 @@ const list = [
     image: "nicef%203.png",
   },
   {
-    name: "niversity-of-maryland-Seal-01 copy",
+    name: "University of Maryland",
     denounced: false,
     image: "niversity-of-maryland-Seal-01%20copy.png",
   },
@@ -165,27 +165,27 @@ const list = [
     image: "nternational%20Center%20for%20Research%20on%20Women%202.png",
   },
   {
-    name: "International Women'_'s Health Coalition IWHC 1",
+    name: "International Women's Health Coalition IWHC 1",
     denounced: false,
     image: "nternational%20Women_s%20Health%20Coalition%20IWHC%201.png",
   },
   {
-    name: "obel_women_s",
+    name: "Nobel Women",
     denounced: false,
     image: "obel_women_s.png",
   },
   {
-    name: "ogo_lmu_og",
+    name: "LMU",
     denounced: false,
     image: "ogo_lmu_og.png",
   },
   {
-    name: "omankind Worldwide - logo",
+    name: "Womankind Worldwide",
     denounced: false,
     image: "omankind%20Worldwide%20-%20logo.png",
   },
   {
-    name: "omen deliver 1",
+    name: "Women deliver 1",
     denounced: false,
     image: "omen%20deliver%201.png",
   },
@@ -206,32 +206,32 @@ const list = [
     image: "omen_s%20lobby.png",
   },
   {
-    name: "WORLD YWCA 1",
+    name: "WORLD YWCA",
     denounced: false,
     image: "ORLD%20YWCA%201.png",
   },
   {
-    name: "ORLED VISION CHILDREN",
+    name: "World Vision",
     denounced: false,
     image: "ORLED%20VISION%20CHILDREN.png",
   },
   {
-    name: "outhall black sister 2",
+    name: "Southall black sister 2",
     denounced: false,
     image: "outhall%20black%20sister%202.png",
   },
   {
-    name: "outhall black sister 3",
+    name: "Southall black sister",
     denounced: false,
     image: "outhall%20black%20sister%203.png",
   },
   {
-    name: "OW",
+    name: "NOW",
     denounced: false,
     image: "OW.png",
   },
   {
-    name: "pfl - logo_",
+    name: "EPFL",
     denounced: false,
     image: "pfl%20-%20logo_.png",
   },
@@ -241,7 +241,7 @@ const list = [
     image: "quality%20Now.png",
   },
   {
-    name: "quality-fund",
+    name: "Equality Fund",
     denounced: false,
     image: "quality-fund1.png",
   },
@@ -256,12 +256,12 @@ const list = [
     image: "rinceton_university-Logo.wine%20copy.png",
   },
   {
-    name: "ronduked copy",
+    name: "Duke University",
     denounced: false,
     image: "ronduked%20copy.png",
   },
   {
-    name: "shr-logo",
+    name: "ISHR",
     denounced: false,
     image: "shr-logo.png",
   },
@@ -277,7 +277,7 @@ const list = [
     image: "ssociazione%20italiana%20donne%20per%20lo%20sviluppo.png",
   },
   {
-    name: "th - logo",
+    name: "ETH",
     denounced: false,
     image: "th%20-%20logo.png",
   },
@@ -292,32 +292,32 @@ const list = [
     image: "The%20Feminist%20Association%20Union.png",
   },
   {
-    name: "uke_university_logo copy",
+    name: "Duke University",
     denounced: false,
     image: "uke_university_logo%20copy.png",
   },
   {
-    name: "um - logo_",
+    name: "Tum",
     denounced: false,
     image: "um%20-%20logo_.png",
   },
   {
-    name: "uman Rights Watch",
+    name: "Human Rights Watch",
     denounced: false,
     image: "uman%20Rights%20Watch.png",
   },
   {
-    name: "vaw coaliation",
+    name: "EVAW coaliation",
     denounced: false,
     image: "vaw%20coaliation.png",
   },
   {
-    name: "wda3",
+    name: "IWDA",
     denounced: false,
     image: "wda3.png",
   },
   {
-    name: "WID",
+    name: "AWID",
     denounced: false,
     image: "WID.png",
   },
@@ -327,27 +327,22 @@ const list = [
     image: "Women%20International%20GWI.png",
   },
   {
-    name: "wsagreen 1",
+    name: "NWSA",
     denounced: false,
     image: "wsagreen%201.png",
   },
   {
-    name: "x-yale_university_logo copy",
-    denounced: false,
-    image: "x-yale_university_logo%20copy.png",
-  },
-  {
-    name: "xford - logo",
+    name: "Oxford University",
     denounced: false,
     image: "xford%20-%20logo.png",
   },
   {
-    name: "zech Women_s Lobby",
+    name: "Czech Women's Lobby",
     denounced: false,
     image: "zech%20Women_s%20Lobby.png",
   },
   {
-    name: "Central Information Point of Autinomous Women_s Refugees",
+    name: "Central Information Point of Autinomous Women's Refugees",
     denounced: false,
     image:
       "Central%20Information%20Point%20of%20Autinomous%20Women_s%20Refugees.png",
@@ -378,33 +373,33 @@ const list = [
     image: "National%20Council%20of%20French%20Women.png",
   },
   {
-    name: "omen Against Violence Europe",
+    name: "Women Against Violence Europe",
     denounced: false,
     image: "omen%20Against%20Violence%20Europe.png",
   },
   {
-    name: "omen Engage for a Common Future",
+    name: "Women Engage for a Common Future",
     denounced: false,
     image: "omen%20Engage%20for%20a%20Common%20Future.png",
   },
   {
-    name: "The Coalition of Finnish Women_s Associations NYTKIS",
+    name: "The Coalition of Finnish Women's Associations NYTKIS",
     denounced: false,
     image:
       "The%20Coalition%20of%20Finnish%20Women_s%20Associations%20NYTKIS.png",
   },
   {
-    name: "The Czech Women_s Union",
+    name: "The Czech Women's Union",
     denounced: false,
     image: "The%20Czech%20Women_s%20Union.png",
   },
   {
     name: "The Estonian Women's Studies and Resource Centre",
     denounced: false,
-    image: "The%20Estonian%20Women's%20Studies%20and%20Resource%20Centre.png",
+    image: "The%20Estonian%20Womens%20Studies%20and%20Resource%20Centre.png",
   },
   {
-    name: "The Federal Conference of Women_s and Equal Opportunities Officers at Universities",
+    name: "The Federal Conference of Women's and Equal Opportunities Officers at Universities",
     denounced: false,
     image:
       "The%20Federal%20Conference%20of%20Women_s%20and%20Equal%20Opportunities%20Officers%20at%20Universities.png",
@@ -412,7 +407,7 @@ const list = [
   {
     name: "The Women's Council Denmark",
     denounced: false,
-    image: "The%20Women's%20Council%20Denmark.png",
+    image: "The%20Womens%20Council%20Denmark.png",
   },
   {
     name: "The World According to Women",
