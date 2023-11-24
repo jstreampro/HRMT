@@ -1,11 +1,13 @@
 const express = require('express');
+const path = require('path');
 const app = express();
 
-// ... other middleware and routes
+// Serve static files from the 'public' directory
+app.use(express.static('public'));
 
-// Serve index.html for any unmatched routes
-app.get('*', (req, res) => {
-  res.sendFile('public/index.html', { root: __dirname });
+// Serve index.html for any unmatched routes (excluding files with extensions)
+app.get(/^((?!\.[\w\d]+).)*$/, (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
 // Start the server
