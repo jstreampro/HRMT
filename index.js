@@ -1,13 +1,15 @@
 const express = require('express');
-const path = require('path');
 const app = express();
 
-app.use(express.static(path.join(__dirname, 'public')));
+// ... other middleware and routes
 
-app.get('/', async(req, res) => {
-  res.sendFile(path.join(__dirname, 'public', 'home.html'));
+// Serve index.html for any unmatched routes
+app.get('*', (req, res) => {
+  res.sendFile('index.html', { root: __dirname });
 });
 
-app.listen(8080, () => {
-  console.log("Server successfully running on port 8080");
+// Start the server
+const port = process.env.PORT || 3000;
+app.listen(port, () => {
+  console.log(`Server is running on port ${port}`);
 });
