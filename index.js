@@ -10,9 +10,9 @@ app.get(/^((?!\.[\w\d]+).)*$/, (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
-app.get('/verifyforzoho.html', (req, res) => {
-  res.sendFile(path.join(__dirname, 'public', 'verifyforzoho.html'));
-});
+// app.get('/verifyforzoho.html', (req, res) => {
+//   res.sendFile(path.join(__dirname, 'public', 'verifyforzoho.html'));
+// });
 
 // Start the server
 const port = process.env.PORT || 3000;
