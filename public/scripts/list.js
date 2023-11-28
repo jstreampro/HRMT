@@ -50,11 +50,6 @@ const list = [
     image: "e7675f42f713055b49595da18fcfca42.png",
   },
   {
-    name: "EE Network for Gender Issues",
-    denounced: false,
-    image: "EE%20Network%20for%20Gender%20Issues.png",
-  },
-  {
     name: "Feministeerium",
     denounced: false,
     image: "eministeerium.png",
@@ -65,19 +60,9 @@ const list = [
     image: "enter%20for%20Reproductive%20Rights.png",
   },
   {
-    name: "King's College London",
-    denounced: false,
-    image: "ings%20college%20london%20-%20logo_.png",
-  },
-  {
     name: "Rise Up",
     denounced: false,
     image: "ise%20Up%20-%20Logo.png",
-  },
-  {
-    name: "Sisters Uncut",
-    denounced: false,
-    image: "isters%20uncut.png",
   },
   {
     name: "MIT",
@@ -110,11 +95,6 @@ const list = [
     image: "mnesty-candle%20-3.png",
   },
   {
-    name: "Imperial College London",
-    denounced: false,
-    image: "mperial%20college%20london%20-%20logo_.png",
-  },
-  {
     name: "UN Women",
     denounced: false,
     image: "n_women.png",
@@ -145,11 +125,6 @@ const list = [
     image: "niversity_of_california_Berkeley.png",
   },
   {
-    name: "University of south carolina",
-    denounced: false,
-    image: "niversity_of_south_carolina_logo_copy.png",
-  },
-  {
     name: "International alliance of women",
     denounced: false,
     image: "nternational%20alliance%20of%20women.png",
@@ -168,11 +143,6 @@ const list = [
     name: "Nobel Women",
     denounced: false,
     image: "obel_women_s.png",
-  },
-  {
-    name: "LMU",
-    denounced: false,
-    image: "ogo_lmu_og.png",
   },
   {
     name: "Womankind Worldwide",
@@ -216,19 +186,9 @@ const list = [
     image: "outhall%20black%20sister%202.png",
   },
   {
-    name: "Southall black sister",
-    denounced: false,
-    image: "outhall%20black%20sister%203.png",
-  },
-  {
     name: "NOW",
     denounced: false,
     image: "OW.png",
-  },
-  {
-    name: "EPFL",
-    denounced: false,
-    image: "pfl%20-%20logo_.png",
   },
   {
     name: "Equality Now",
@@ -251,30 +211,14 @@ const list = [
     image: "rinceton_university-Logo.wine%20copy.png",
   },
   {
-    name: "Duke University",
-    denounced: false,
-    image: "ronduked%20copy.png",
-  },
-  {
     name: "ISHR",
     denounced: false,
     image: "shr-logo.png",
   },
   {
-    name: "Association for the prevention and handling of violence in the Family",
-    denounced: false,
-    image:
-      "ssociation%20for%20the%20prevention%20and%20handling%20of%20violence%20in%20the%20Family.png",
-  },
-  {
     name: "Associazione italiana donne per lo sviluppo",
     denounced: false,
     image: "ssociazione%20italiana%20donne%20per%20lo%20sviluppo.png",
-  },
-  {
-    name: "ETH",
-    denounced: false,
-    image: "th%20-%20logo.png",
   },
   {
     name: "The Bulgarian Fund for Women",
@@ -290,11 +234,6 @@ const list = [
     name: "Duke University",
     denounced: false,
     image: "uke_university_logo%20copy.png",
-  },
-  {
-    name: "Tum",
-    denounced: false,
-    image: "um%20-%20logo_.png",
   },
   {
     name: "Human Rights Watch",
@@ -337,12 +276,6 @@ const list = [
     image: "zech%20Women_s%20Lobby.png",
   },
   {
-    name: "Central Information Point of Autinomous Women's Refugees",
-    denounced: false,
-    image:
-      "Central%20Information%20Point%20of%20Autinomous%20Women_s%20Refugees.png",
-  },
-  {
     name: "Dare Feminism",
     denounced: false,
     image: "Dare%20Feminism.png",
@@ -351,21 +284,6 @@ const list = [
     name: "Feminist Change",
     denounced: false,
     image: "Feminist%20Change.png",
-  },
-  {
-    name: "Gender Alternatives",
-    denounced: false,
-    image: "Gender%20Alternatives.png",
-  },
-  {
-    name: "MeToo",
-    denounced: false,
-    image: "MeToo.png",
-  },
-  {
-    name: "National Council of French Women",
-    denounced: false,
-    image: "National%20Council%20of%20French%20Women.png",
   },
   {
     name: "Women Against Violence Europe",
@@ -382,16 +300,6 @@ const list = [
     denounced: false,
     image:
       "The%20Coalition%20of%20Finnish%20Women_s%20Associations%20NYTKIS.png",
-  },
-  {
-    name: "The Czech Women's Union",
-    denounced: false,
-    image: "The%20Czech%20Women_s%20Union.png",
-  },
-  {
-    name: "The Estonian Women's Studies and Resource Centre",
-    denounced: false,
-    image: "The%20Estonian%20Womens%20Studies%20and%20Resource%20Centre.png",
   },
   {
     name: "The Federal Conference of Women's and Equal Opportunities Officers at Universities",
@@ -423,6 +331,107 @@ const list = [
     name: "Women's Room",
     denounced: false,
     image: "Womens%20Room.png",
+  },
+
+  {
+    name: "Columbia University",
+    denounced: false,
+    image: "COLOMBIA%20UNIVERSITY.png",
+  },
+  {
+    name: "Utrecht University",
+    denounced: false,
+    image: "utrecht%20university.png",
+  },
+  {
+    name: "Le Monde Selonles Femmes (The World According to Women)",
+    denounced: false,
+    image: "Le%20Monde%20Selonles%20Femmes.jpg",
+  },
+  {
+    name: "BLM",
+    denounced: false,
+    image: "BLM.jpg",
+  },
+  {
+    name: "Palestinian Feminist Collective",
+    denounced: false,
+    image: "Palestinian%20Feminist%20Collective.png",
+  },
+  {
+    name: "Sisters Uncut",
+    denounced: false,
+    image: "Sisters%20Uncut.png",
+  },
+  {
+    name: "Amandla Stenberg",
+    denounced: false,
+    image: "162Amandla%20Stenberg.png",
+  },
+  {
+    name: "Angelina Jolie",
+    denounced: false,
+    image: "162Angelina%20Jolie.png",
+  },
+  {
+    name: "Ashley Judd",
+    denounced: false,
+    image: "162Ashley%20Judd.png",
+  },
+  {
+    name: "Cate blanchett",
+    denounced: false,
+    image: "162Cate%20blanchett.png",
+  },
+  {
+    name: "Jane Fonda",
+    denounced: false,
+    image: "162Jane%20Fonda.png",
+  },
+  {
+    name: "Jennifer Aniston",
+    denounced: false,
+    image: "162jennifer%20aniston.png",
+  },
+  {
+    name: "Lena Dunham",
+    denounced: false,
+    image: "162Lena%20Dunham.png",
+  },
+  {
+    name: "Malala Yousafzai",
+    denounced: false,
+    image: "162Malala%20Yousafzai.png",
+  },
+  {
+    name: "Mariska Hargitay",
+    denounced: false,
+    image: "162Mariska%20Hargitay.png",
+  },
+  {
+    name: "Munroe Bergdorf",
+    denounced: false,
+    image: "162munroe-bergdorf.png",
+  },
+  {
+    name: "Oprah",
+    denounced: false,
+    image: "162Oprah.png",
+  },
+  {
+    name: "Patrisse Cullors",
+    denounced: false,
+    image: "162Patrisse%20Cullors.png",
+  },
+  {
+    name: "Roxane Gay",
+    denounced: false,
+    image: "162Roxane%20Gay.png",
+  },
+  {
+    name: "Selena Gomez",
+    denounced: false,
+    image: "162Selena%20Gomez.png",
   },
 ].sort((a, b) => (a.name.toLowerCase() > b.name.toLowerCase() ? 1 : -1));
 
