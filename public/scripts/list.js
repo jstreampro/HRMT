@@ -356,7 +356,7 @@ const list = [
   {
     name: "Sisters Uncut",
     denounced: false,
-    image: "Sisters%20Uncut.png",
+    image: "Sisters%20Uncut.jpg",
   },
   {
     name: "Amandla Stenberg",
