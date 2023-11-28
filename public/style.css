@@ -458,10 +458,7 @@ h3 {
 
   #credits-layout-logo {
     margin-right: 0 !important;
-  }
-
-  #credits {
-    grid-template-columns: repeat(2, minmax(80px, 1fr)) !important;
+    margin-bottom: 2em;
   }
 }
 
@@ -469,20 +466,21 @@ h3 {
   margin-right: 3em;
 }
 #credits {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(80px, 1fr));
+  column-width: 150px;
   font-size: smaller;
   gap: 2em;
 }
 
 .credits-section {
   margin-bottom: 2em;
+  break-inside: avoid;
 }
 .credits-section h4 {
   color: var(--highlight);
   font-weight: normal;
   margin-bottom: 0.5em;
   white-space: nowrap;
+  margin-top: 0;
 }
 
 .credits-section ul {
