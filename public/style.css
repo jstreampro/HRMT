@@ -6,7 +6,7 @@ body {
 
 body {
   color: #fff;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Nunito Sans", sans-serif;
   background-color: #0d0d0d;
   background: url("img/resources/background_1.png");
 }
@@ -446,12 +446,12 @@ h3 {
     display: block;
   }
 
-  #credits {
-    display: block !important;
-  }
-
   #credits-layout-logo {
     margin-right: 0 !important;
+  }
+
+  #credits {
+    grid-template-columns: repeat(2, minmax(80px, 1fr)) !important;
   }
 }
 
