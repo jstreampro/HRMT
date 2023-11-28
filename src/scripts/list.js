@@ -35,11 +35,6 @@ const list = [
     image: "awcett%20society%20uk1.png",
   },
   {
-    name: "AWID",
-    denounced: true,
-    image: "AWID2.png",
-  },
-  {
     name: "UCL",
     denounced: false,
     image: "cl%20-%20logo.png",

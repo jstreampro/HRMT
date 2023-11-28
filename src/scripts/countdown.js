@@ -5,7 +5,7 @@ const elements = {
   seconds: document.querySelector("#countdown_seconds"),
 };
 
-const END_TIME = new Date("2023-12-31 23:59:59").valueOf();
+const END_TIME = new Date("2023-12-21 23:59:59").valueOf();
 
 export function setCountdown() {
   setInterval(setCountdownNumbers, 1000);
