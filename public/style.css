@@ -54,6 +54,9 @@ section {
   margin-right: auto;
 }
 
+.text-center {
+  text-align: center;
+}
 .center {
   justify-content: center;
   align-items: center;
@@ -436,6 +439,16 @@ h3 {
 #credits-layout {
   display: flex;
   flex-direction: row;
+}
+
+@media (max-width: 600px) {
+  #credits-layout {
+    display: block;
+  }
+
+  #credits {
+    display: block !important;
+  }
 }
 
 #credits-layout-logo {
