@@ -14,6 +14,7 @@ body {
 :root {
   --highlight: #fc3390;
   --dark: #0c0b0b;
+  --main-margin: 1em;
 }
 
 /* General classes */
@@ -33,7 +34,7 @@ a:hover {
   max-width: 100vw;
   margin-left: auto;
   margin-right: auto;
-  padding: 4px 24px;
+  padding: 4px var(--main-margin);
 }
 
 .flex-0 {
@@ -43,20 +44,12 @@ a:hover {
   flex: 1;
 }
 
-h2 {
-}
 h2 img {
   max-width: 90%;
 }
 
 section {
   margin-bottom: 3em;
-}
-
-.text {
-  max-width: 680px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .text-center {
