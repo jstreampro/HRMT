@@ -198,7 +198,7 @@ h3 {
   color: var(--dark);
   position: relative;
   margin-bottom: 100px;
-  padding: 30px 16px 0;
+  padding-top: 30px;
 }
 .white-tear::before,
 .white-tear::after {
