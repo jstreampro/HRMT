@@ -313,11 +313,6 @@ const list = [
     image: "The%20Womens%20Council%20Denmark.png",
   },
   {
-    name: "The World According to Women",
-    denounced: false,
-    image: "The%20World%20According%20to%20Women.png",
-  },
-  {
     name: "Women's International League for Peace and Freedom",
     denounced: false,
     image: "Womens%20International%20League%20for%20Peace%20and%20Freedom.png",
