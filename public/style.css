@@ -254,6 +254,15 @@ h3 {
   display: flex;
 }
 
+.org[data-denounced] {
+  filter: grayscale() sepia(90%) saturate(20) hue-rotate(285deg) brightness(91%)
+    contrast(160%);
+}
+
+.org[data-denounced]:hover {
+  filter: none;
+}
+
 .org:not([data-denounced]) {
   filter: grayscale();
 }

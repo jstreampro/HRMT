@@ -50,16 +50,6 @@ const list = [
     image: "e7675f42f713055b49595da18fcfca42.png",
   },
   {
-    name: "Feministeerium",
-    denounced: false,
-    image: "eministeerium.png",
-  },
-  {
-    name: "Center for Reproductive Rights",
-    denounced: false,
-    image: "enter%20for%20Reproductive%20Rights.png",
-  },
-  {
     name: "Rise Up",
     denounced: false,
     image: "ise%20Up%20-%20Logo.png",
@@ -96,7 +86,7 @@ const list = [
   },
   {
     name: "UN Women",
-    denounced: false,
+    denounced: true,
     image: "n_women.png",
   },
   {
@@ -187,7 +177,7 @@ const list = [
   },
   {
     name: "NOW",
-    denounced: false,
+    denounced: true,
     image: "OW.png",
   },
   {
@@ -221,11 +211,6 @@ const list = [
     image: "ssociazione%20italiana%20donne%20per%20lo%20sviluppo.png",
   },
   {
-    name: "The Bulgarian Fund for Women",
-    denounced: false,
-    image: "The%20Bulgarian%20Fund%20for%20Women.png",
-  },
-  {
     name: "The Feminist Association Union",
     denounced: false,
     image: "The%20Feminist%20Association%20Union.png",
@@ -256,11 +241,6 @@ const list = [
     image: "WID.png",
   },
   {
-    name: "Women International GWI",
-    denounced: false,
-    image: "Women%20International%20GWI.png",
-  },
-  {
     name: "NWSA",
     denounced: false,
     image: "wsagreen%201.png",
@@ -271,24 +251,9 @@ const list = [
     image: "xford%20-%20logo.png",
   },
   {
-    name: "Czech Women's Lobby",
-    denounced: false,
-    image: "zech%20Women_s%20Lobby.png",
-  },
-  {
     name: "Dare Feminism",
     denounced: false,
     image: "Dare%20Feminism.png",
-  },
-  {
-    name: "Feminist Change",
-    denounced: false,
-    image: "Feminist%20Change.png",
-  },
-  {
-    name: "Women Against Violence Europe",
-    denounced: false,
-    image: "omen%20Against%20Violence%20Europe.png",
   },
   {
     name: "Women Engage for a Common Future",
@@ -296,38 +261,15 @@ const list = [
     image: "omen%20Engage%20for%20a%20Common%20Future.png",
   },
   {
-    name: "The Coalition of Finnish Women's Associations NYTKIS",
-    denounced: false,
-    image:
-      "The%20Coalition%20of%20Finnish%20Women_s%20Associations%20NYTKIS.png",
-  },
-  {
-    name: "The Federal Conference of Women's and Equal Opportunities Officers at Universities",
-    denounced: false,
-    image:
-      "The%20Federal%20Conference%20of%20Women_s%20and%20Equal%20Opportunities%20Officers%20at%20Universities.png",
-  },
-  {
     name: "The Women's Council Denmark",
     denounced: false,
     image: "The%20Womens%20Council%20Denmark.png",
-  },
-  {
-    name: "Women's International League for Peace and Freedom",
-    denounced: false,
-    image: "Womens%20International%20League%20for%20Peace%20and%20Freedom.png",
   },
   {
     name: "Women's Life",
     denounced: false,
     image: "Womens%20Life.png",
   },
-  {
-    name: "Women's Room",
-    denounced: false,
-    image: "Womens%20Room.png",
-  },
-
   {
     name: "Columbia University",
     denounced: false,
@@ -427,6 +369,41 @@ const list = [
     name: "Selena Gomez",
     denounced: false,
     image: "162Selena%20Gomez.png",
+  },
+  {
+    name: "Oxfam",
+    denounced: false,
+    image: "oxfam.jpg",
+  },
+  {
+    name: "International Committee of the Red Cross",
+    denounced: false,
+    image: "red_cross.jpg",
+  },
+  {
+    name: "Malala Fund",
+    denounced: false,
+    image: "malala_fund.jpg",
+  },
+  {
+    name: "Doctors Without Borders",
+    denounced: false,
+    image: "doctors_without_borders.jpg",
+  },
+  {
+    name: "Million Women Rise",
+    denounced: false,
+    image: "million_women_rise.jpg",
+  },
+  {
+    name: "Women's Media Center",
+    denounced: false,
+    image: "womens_media_center.jpg",
+  },
+  {
+    name: "International Federation for Human Rights",
+    denounced: false,
+    image: "fidh.jpg",
   },
 ].sort((a, b) => (a.name.toLowerCase() > b.name.toLowerCase() ? 1 : -1));
 
