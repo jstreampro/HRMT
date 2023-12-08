@@ -185,20 +185,34 @@ h3 {
 }
 
 #video {
-  height: 300px;
+  width: 100%;
   background: #222;
-  color: white;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  position: relative;
+  top: 0.7em;
+  max-width: 960px;
+  margin: 6em auto 3em;
+  aspect-ratio: 16/9;
+  background: var(--dark);
 }
 
+@media (max-width: 600px) {
+  #video {
+    margin: 2em auto;
+  }
+}
+
+#video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 .white-tear {
   background-color: #eee;
   color: var(--dark);
   position: relative;
   margin-bottom: 100px;
-  padding-top: 30px;
 }
 .white-tear::before,
 .white-tear::after {
@@ -212,7 +226,7 @@ h3 {
 
 .white-tear::before {
   background-image: url("img/resources/white-top.png");
-  top: -65px;
+  top: -45px;
   background-position: bottom left;
   height: 66px;
 }
