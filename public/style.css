@@ -195,7 +195,7 @@ h3 {
   background: var(--dark);
 }
 
-@media (max-width: 600px) {
+@media (max-wid: 600px) {
   #video {
     margin: 2em auto;
   }
@@ -435,6 +435,7 @@ h3 {
 }
 #download-posters a:hover img {
   border-color: var(--highlight);
+  background: white;
 }
 
 .download-icon {
