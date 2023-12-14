@@ -16,8 +16,9 @@ function main() {
     const listItem = document.createElement("li");
     listItem.style.backgroundImage = `url(${LOGOS_FOLDER}${org.image})`;
     listItem.className = "org";
-    listItem.dataset.email = org.email;
-
+    if (org.email) {
+      listItem.dataset.email = org.email;
+    }
     listItem.setAttribute("title", org.name);
     if (org.denounced) {
       listItem.dataset.denounced = "1";
