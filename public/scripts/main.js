@@ -20,6 +20,10 @@ function main() {
     listItem.setAttribute("title", org.name);
     if (org.denounced) {
       listItem.dataset.denounced = "1";
+      listItem.title = "Click to view statement";
+    } else if (org.email) {
+      listItem.dataset.email = "1";
+      listItem.title = "Click to email " + org.name;
     }
 
     const orgName = document.createElement("span");

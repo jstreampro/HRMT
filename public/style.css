@@ -275,6 +275,7 @@ h3 {
 .org[data-denounced] {
   filter: grayscale() sepia(90%) saturate(20) hue-rotate(285deg) brightness(91%)
     contrast(160%);
+  cursor: pointer;
 }
 
 .org[data-denounced]:hover {
