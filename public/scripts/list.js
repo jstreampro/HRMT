@@ -148,6 +148,8 @@ const list = [
     denounced: true,
     image: "nternational%20alliance%20of%20women.png",
     email: "",
+    quote:
+      "Today, and every day since October 7th, we have unequivocally stood with the women and girls of Israel victimized by the horrific atrocities and gender-based violence perpetrated by Hamas. We stand with them in expressing our outrage about Hamas' barbaric rapes and other crimes of gender-violence committed against innocent Israeli women and girls at their peaceful homes, at a community event celebrating peace or while captive as hostages. We condemn these grave crimes against humanity and call for an international outrage against the perpetrators as well as collaborative efforts to bring them to justice. Our hearts go out to the victims, their families, and the entire Israeli community for the horrific trauma and loss of lives. In light of the recently commemorated International Day for the Elimination of Violence against Women, we call on all feminist organizations and international bodies to join the condemnation of the gender-based violence perpetrated by Hamas and demand for justice to be given to the victims.",
   },
   {
     name: "International Center for Research on Women",
@@ -256,6 +258,8 @@ const list = [
     denounced: true,
     image: "OW.png",
     email: "",
+    quote:
+      "Rape must never be part of a battle plan. NOW stands for ending violence against women, and that includes denouncing the horrors of rape and the darkness that follows. We must all bear witness to these widespread crimes against humanity and put a stop to the deafening silence.",
   },
   {
     name: "NWSA",
@@ -382,6 +386,8 @@ const list = [
     denounced: true,
     image: "n_women.png",
     email: "",
+    quote:
+      "We unequivocally condemn the brutal attacks by Hamas on Israel on 7 October. We are alarmed by the numerous accounts of gender-based atrocities and sexual violence during those attacks. This is why we have called for all accounts of gender-based violence to be duly investigated and prosecuted, with the rights of the victim at the core.",
   },
   {
     name: "UNFPA",

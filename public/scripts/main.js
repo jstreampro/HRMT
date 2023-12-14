@@ -1,5 +1,6 @@
 import list from "./list.js";
 import { setCountdown } from "./countdown.js";
+import { showQuote } from "./dialog.js";
 import EMAIL_BODY from "./email_body.js";
 
 const LOGOS_FOLDER = "img/logos/";
@@ -16,9 +17,6 @@ function main() {
     const listItem = document.createElement("li");
     listItem.style.backgroundImage = `url(${LOGOS_FOLDER}${org.image})`;
     listItem.className = "org";
-    if (org.email) {
-      listItem.dataset.email = org.email;
-    }
     listItem.setAttribute("title", org.name);
     if (org.denounced) {
       listItem.dataset.denounced = "1";
@@ -35,10 +33,16 @@ function main() {
   containerEl.appendChild(fragment);
 
   containerEl.addEventListener("click", (event) => {
-    const email = event.target.closest(".org").dataset.email;
-    if (email) {
-      const mailToURL = `mailto:${email}?subject=${EMAIL_SUBJECT}&body=${EMAIL_BODY}`;
-      window.location.href = mailToURL;
+    const orgEl = event.target.closest(".org");
+    const org = list.find(({ name }) => name === orgEl.textContent);
+
+    if (org.quote) {
+      showQuote(org.name, org.quote);
+    } else {
+      if (org.email) {
+        const mailToURL = `mailto:${org.email}?subject=${EMAIL_SUBJECT}&body=${EMAIL_BODY}`;
+        window.location.href = mailToURL;
+      }
     }
   });
 
