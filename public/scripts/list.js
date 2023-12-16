@@ -317,9 +317,11 @@ const list = [
   },
   {
     name: "Rainn",
-    denounced: false,
+    denounced: true,
     image: "rainn.png",
-    email: "erinnr@rainn.org",
+    email: "",
+    quote: 
+    "Rape is an evil act that has harmed millions of survivors and has been used as a tool of armed conflict and terrorism. Most recently, we are horrified by and condemn the rape of women and girls by Hamas in Israel on October 7. No decent person can defend, or should attempt to legitimize, rape. It does not matter when, where, or how sexual violence occurs, nor the identity of the victims or rapists. Regardless of nationality, race, religion, gender, motive, belief or any other factor, it is simply, and always, wrong. RAINN will always stand with survivors and victims of rape, and demand justice for those who have harmed them."
   },
   {
     name: "Rise Up",
@@ -470,9 +472,10 @@ const list = [
   },
   {
     name: "Women's Media Center",
-    denounced: false,
+    denounced: true,
     image: "womens_media_center.jpg",
-    email: "wmcdc@womensmediacenter.com",
+    email: "",
+    quote: "The brutal October 7 attack by Hamas on Israelis (and numerous foreign nationals) deserves condemnation for many reasons, but we at the Women’s Media Center join with women and men all around the world who are denouncing Hamas for their premeditated use of sexualized violence – specifically gang rape, rape combined with murder, attacks on infants and children, and abduction of civilians, some of whom are still in captivity. We unequivocally condemn these and other atrocities employed and sanctioned as part of the Hamas terror strategy. We have provided tip sheets to journalists on covering sexualized violence and sensitively interviewing survivors. We agree wholeheartedly with the international tribunals that codified the crime of sexualized violence as a crime against humanity and a war crime. We urge those at the United Nations and in the U.S. government to acknowledge all war crimes against women and we pledge to support survivors and to campaign for justice for those who have perpetrated these crimes."
   },
   {
     name: "World Vision",
