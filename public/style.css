@@ -412,17 +412,6 @@ h3 {
     display: flex !important;
     margin-top: 1em;
   }
-
-  #countdown{
-    padding-left: 0.6rem !important;
-  }
-  #countdown-numbers {
-    grid-template-columns: repeat(4, minmax(70px, 1fr)) !important;
-  }
-  .countdown-number-label{
-    font-size: 10px !important;
-  }
-
 }
 
 #download-posters {
@@ -592,4 +581,35 @@ blockquote:before {
 #email-dialog textarea{
   width: 100%;
   height: 300px;
+}
+
+
+@media (max-width: 600px) {
+  #countdown{
+    padding-left: 0.6rem !important;
+  }
+  #countdown-numbers {
+    grid-template-columns: repeat(4, minmax(70px, 1fr)) !important;
+  }
+  .countdown-number-label{
+    font-size: 10px !important;
+  }
+}
+
+@media (max-width: 300px) {
+  #countdown {
+    padding-left: 0.6rem !important;
+  }
+
+  #countdown .countdown-number-value{
+    font-size: 40px !important;
+  }
+
+  #countdown-numbers {
+    grid-template-columns: repeat(4, minmax(52px, 1fr)) !important;
+  }
+
+  .countdown-number-label {
+    font-size: 10px !important;
+  }
 }
