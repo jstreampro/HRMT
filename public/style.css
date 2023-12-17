@@ -412,6 +412,17 @@ h3 {
     display: flex !important;
     margin-top: 1em;
   }
+
+  #countdown{
+    padding-left: 0.6rem !important;
+  }
+  #countdown-numbers {
+    grid-template-columns: repeat(4, minmax(70px, 1fr)) !important;
+  }
+  .countdown-number-label{
+    font-size: 10px !important;
+  }
+
 }
 
 #download-posters {
