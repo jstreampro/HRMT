@@ -45,7 +45,35 @@ const list = [
     name: "Berkeley",
     denounced: false,
     image: "niversity_of_california_Berkeley.png",
-    email: "",
+    email: "chancellor@berkeley.edu",
+    email_data:{
+      subject:'Urgent Concern: Addressing Alarming Instances of Antisemitism on Berkeley University Campus',
+body:`To Chancellor Carol T. Christ and Chair of the Gender Studies Faculty Leslie Salzinger,
+
+We are deeply concerned about the apparent indifference to hate speech and dangerous rhetoric that threatens the safety and well-being of Jewish and Israeli students on campus. Jewish students are subjected to harassment and threats, creating a palpable sense of insecurity.
+
+The failure to provide a basic safe environment, one that every student deserves, is evident in the tolerance of hate speech and the endorsement of terrorism as part of academic credit. Invoking calls for "Intifada" and phrases like "Gas the Jews" transcends political discourse or freedom of expression; it is outright antisemitism, fueled by hatred and a distorted representation of facts and history, supplanted by biased "Narratives."
+
+Particularly alarming is the situation of Jewish women, both globally and in America. The endorsement by some students of the atrocities committed against Jewish women by Hamas – including sexual abuse, rape, amputation, burning alive, and the murder of women, adolescents, children, and infants on October 7th – is deeply troubling.
+
+Over 100 faculty members have signed the UC Berkeley Faculty Statement of Solidarity with Palestinians, accessible here: [https://www.jadaliyya.com/Details/45451](https://www.jadaliyya.com/Details/45451). This document rewrites history with false claims, labels Jewish people as invaders, and ignores the 3000-year Jewish presence in the land. It also fails to condemn Hamas' barbaric and inhumane attacks, including the worst mass sexual assault ever documented in modern history.
+
+This is a disgrace to both UC Berkeley and the broader academic community.
+
+Regarding your post on social media, we note that Berkeley administrators learned about a graduate student instructor who initially offered extra credit solely for attending a pro-Palestine walk-out. Following a swift response from campus leaders, the instructor revised the assignment to include a range of extra credit options, such as attending any local demonstration, event, book talk, or panel discussion on the topic. However, some instructors inappropriately canceled classes to enable student participation in the demonstration.
+
+The fact that instructors are offering extra academic credit for participation in rallies organized by the antisemitic organization AROC, which supports the atrocities inflicted by Hamas on women, men, children, infants, and even Holocaust survivors, indicates a severe lapse in both moral and managerial judgment at the university.
+
+In light of these grave concerns, we urge immediate and decisive action from the University administration. It is imperative to reevaluate the policies and practices that have allowed such divisive and harmful rhetoric to permeate the campus environment. We expect UC Berkeley, a respected institution of higher learning, to uphold the principles of diversity, inclusion, and safety for all students, irrespective of their background or beliefs. Failure to address these issues not only undermines the academic integrity of the University but also betrays the fundamental values of our educational community. We look forward to your prompt response and commitment to making tangible changes.
+
+Failing to do so, UC Berkeley logo will be forever included on our 'Wall of Shame' at HamasRapedMeToo.com
+
+We urge you to speak out against these crimes to safeguard the rights and safety of Jewish and Israeli women and the safety of all of your students.
+
+Change from Black to Pink: Upon issuing a bold public statement of condemnation prominently displayed on your social media platforms and website, we commit to symbolically change your logo from black to pink on our site, signifying a steadfast commitment to combating antisemitism and gender-based violence.
+
+Send us your condemnation to: Contact@hamasrapedmetoo.info`
+    }
   },
   {
     name: "BLM",
@@ -215,7 +243,7 @@ const list = [
     name: "Malala Fund",
     denounced: false,
     image: "malala_fund.jpg",
-    email: "",
+    email: "info@malalafund.org",
   },
   {
     name: "Malala Yousafzai",
@@ -307,7 +335,7 @@ const list = [
     name: "Plan International",
     denounced: false,
     image: "lan-international.png",
-    email: "",
+    email: "safeguarding.Unit@plan-international.org",
   },
   {
     name: "Princeton university",
@@ -320,8 +348,8 @@ const list = [
     denounced: true,
     image: "rainn.png",
     email: "",
-    quote: 
-    "Rape is an evil act that has harmed millions of survivors and has been used as a tool of armed conflict and terrorism. Most recently, we are horrified by and condemn the rape of women and girls by Hamas in Israel on October 7. No decent person can defend, or should attempt to legitimize, rape. It does not matter when, where, or how sexual violence occurs, nor the identity of the victims or rapists. Regardless of nationality, race, religion, gender, motive, belief or any other factor, it is simply, and always, wrong. RAINN will always stand with survivors and victims of rape, and demand justice for those who have harmed them."
+    quote:
+      "Rape is an evil act that has harmed millions of survivors and has been used as a tool of armed conflict and terrorism. Most recently, we are horrified by and condemn the rape of women and girls by Hamas in Israel on October 7. No decent person can defend, or should attempt to legitimize, rape. It does not matter when, where, or how sexual violence occurs, nor the identity of the victims or rapists. Regardless of nationality, race, religion, gender, motive, belief or any other factor, it is simply, and always, wrong. RAINN will always stand with survivors and victims of rape, and demand justice for those who have harmed them.",
   },
   {
     name: "Rise Up",
@@ -385,11 +413,50 @@ const list = [
   },
   {
     name: "UN Women",
-    denounced: true,
+    denounced: false,
     image: "n_women.png",
-    email: "",
-    quote:
-      "We unequivocally condemn the brutal attacks by Hamas on Israel on 7 October. We are alarmed by the numerous accounts of gender-based atrocities and sexual violence during those attacks. This is why we have called for all accounts of gender-based violence to be duly investigated and prosecuted, with the rights of the victim at the core.",
+    email: "media.team@unwomen.org;janine.kandel@unwomen.org",
+    email_data:{
+      subject:"Urgent Call for Action: Condemnation of Gender-Based Violence, Release of Hostages, and Fair Coverage",
+body:`Executive Director Sima Bahous,
+      
+We are writing to convey the deep sense of betrayal felt by us, Israeli and Jewish women around the world, due to your actions—or rather, your lack of action.      
+The urgency regarding the lack of full acknowledgment and action from UN Women in response to the atrocities committed against Israeli and Jewish women, men, children and babies by Hamas.
+
+The #Hamas_Raped_MeToo movement remains steadfast in its demand for your immediate and unequivocal condemnation of the sexual assaults, violence, and heinous acts perpetrated against women, men, children, and babies by Hamas terrorists on October 7th.
+
+Additionally, we urgently call for UN Women, under your leadership to take active measures for the release of remaining hostages who endure threats and sexual harassment.
+
+It is disheartening to note that UN Women's previous condemnation, issued two MONTHS! after the attack, was perceived as weak and unacceptable. We emphasize the critical need for a strong and timely response to condemn these acts of gender-based violence, ensuring justice for the victims.
+
+Your organization has no reason to exist if it remains silent in the face of these atrocities: the apparent rape of Shani Louk, as depicted in a Hamas video, where her naked body is callously thrown into a pickup truck as if she were mere prey; the video showing a young girl, being dragged by her hair into a car, with her crotch area stained with blood; the heart-wrenching cries of a mother being raped by terrorists one after another, while her baby is tragically baked in an oven. And these are just a few among the growing number of horrific testimonies being revealed as the days pass. These were not random acts of violence, but rather actions carried out as per specific written instructions from the terrorist leaders.
+The eyewitness reports we’ve seen are too hard to read. One report describes a woman is repeatedly raped by one terrorist after another. Then, the last one mutilates her by chopping her breasts off before murdering her!!
+    
+
+In light of this, we demand:
+
+1. Public Condemnation: A strong, unequivocal condemnation prominently displayed on UN Women's social media platforms and website by December 20th. This statement must reflect a commitment to justice and human rights, rectifying the delay and inadequacy of the previous response.
+
+2. Visibility on 'Wall of Shame': Failure to condemn these acts will result in UN Women being included on our 'Wall of Shame' at www.hamasrapedmetoo.com. We urge your organization to speak out against these crimes to safeguard the rights and safety of women.
+
+3. Change from Black to Pink: Upon issuing a bold public statement of condemnation, we commit to symbolically change UN Women's logo from black to pink on our site, signifying a steadfast commitment to combating gender-based violence.
+
+4. Furthermore, we insist on fair coverage of these events on UN Women's social media platforms. The importance of providing accurate and unbiased information to the public cannot be overstated, and we expect UN Women to play a leading role in promoting justice and awareness.
+
+We will not let you continue deceiving women worldwide into believing you care about them. We will take whatever action necessary to hold you and your organization accountable.
+
+Break this disgraceful silence at once and undo the shame you have brought upon yourselves. Please send us your public statement of commitment or condemnation as soon as possible, and no later than December 20th. 
+
+Your immediate attention to this matter is crucial, and we anticipate receiving your public statement of commitment or condemnation by December 20th. No woman should endure such violence in silence, and we expect that UN Women will stand with us in condemning these acts and advocating for justice.
+
+No woman can stay silent! If you don't speak up, it's as if you allow Hamas to rape MeToo!
+
+Hamas Raped MeToo movement.
+
+Send us your condemnation to: 
+contact@hamasrapedmetoo.info`
+    },
+    quote: "",
   },
   {
     name: "UNFPA",
@@ -472,10 +539,9 @@ const list = [
   },
   {
     name: "Women's Media Center",
-    denounced: true,
+    denounced: false,
     image: "womens_media_center.jpg",
-    email: "",
-    quote: "The brutal October 7 attack by Hamas on Israelis (and numerous foreign nationals) deserves condemnation for many reasons, but we at the Women’s Media Center join with women and men all around the world who are denouncing Hamas for their premeditated use of sexualized violence – specifically gang rape, rape combined with murder, attacks on infants and children, and abduction of civilians, some of whom are still in captivity. We unequivocally condemn these and other atrocities employed and sanctioned as part of the Hamas terror strategy. We have provided tip sheets to journalists on covering sexualized violence and sensitively interviewing survivors. We agree wholeheartedly with the international tribunals that codified the crime of sexualized violence as a crime against humanity and a war crime. We urge those at the United Nations and in the U.S. government to acknowledge all war crimes against women and we pledge to support survivors and to campaign for justice for those who have perpetrated these crimes."
+    email: "wmcdc@womensmediacenter.com",
   },
   {
     name: "World Vision",

@@ -382,5 +382,26 @@
       <blockquote id="quote-dialog-text"></blockquote>
       <button id="quote-dialog-close">Close</button>
     </dialog>
+    <dialog id="email-dialog">
+      <header3 id="email-dialog-title">
+        Be the voice of Hamas's victims.<br>
+        For quick sending click here (it will open your email box)
+        <hr>
+         <a href="#" id="email-dialog-link"><button>Click here for quick sending</button></a> 
+         <br>
+         <br>
+      </header3>
+      <div>
+        if it doesn't work for you,
+        don't give up! copy the wording to a new email and send to the following email address.
+        <br><br>
+        Email: <input id="email-dialog-address" value="" onclick="this.focus();this.select()" />
+        <br><br>
+        Subject: <input id="email-dialog-subject" value="" onclick="this.focus();this.select()" />
+        <br><br>
+        Wording:<textarea id="email-dialog-text" onclick="this.focus();this.select()"></textarea>
+      </div>
+      <button id="email-dialog-close">Close</button>
+    </dialog>
   </body>
 </html>

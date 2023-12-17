@@ -1,13 +1,8 @@
 import list from "./list.js";
 import { setCountdown } from "./countdown.js";
-import { showQuote } from "./dialog.js";
-import EMAIL_BODY from "./email_body.js";
-
+import { showQuote, showEmail } from "./dialog.js";
 const LOGOS_FOLDER = "img/logos/";
-const EMAIL_SUBJECT = encodeURIComponent(
-  "RIP women's solidarity: Emergency response needed!"
-);
-
+ 
 function main() {
   const containerEl = document.querySelector("#orgs");
 
@@ -44,8 +39,7 @@ function main() {
       showQuote(org.name, org.quote);
     } else {
       if (org.email) {
-        const mailToURL = `mailto:${org.email}?subject=${EMAIL_SUBJECT}&body=${EMAIL_BODY}`;
-        window.location.href = mailToURL;
+         showEmail(org);
       }
     }
   });
