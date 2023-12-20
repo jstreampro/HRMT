@@ -562,6 +562,12 @@ contact@hamasrapedmetoo.info`
     image: "ale_logo%20copy.png",
     email: "",
   },
+  {
+    name: "Women's aid",
+    denounced: false,
+    image: "womensaid.jpeg",
+    email: "CEOoffice@womensaid.org.uk",
+  },
 ].sort((a, b) => (a.name.toLowerCase() > b.name.toLowerCase() ? 1 : -1));
 
 export default list;
