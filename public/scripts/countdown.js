@@ -18,8 +18,8 @@ function setCountdownNumbers() {
   const minutes = (hours % 1) * 60;
   const seconds = (minutes % 1) * 60;
 
-  elements.days.textContent = Math.trunc(days);
-  elements.hours.textContent = Math.trunc(hours);
-  elements.minutes.textContent = Math.trunc(minutes);
-  elements.seconds.textContent = Math.trunc(seconds);
+  elements.days.textContent = 0//Math.trunc(days);
+  elements.hours.textContent =0// Math.trunc(hours);
+  elements.minutes.textContent = 0//Math.trunc(minutes);
+  elements.seconds.textContent = 0//Math.trunc(seconds);
 }

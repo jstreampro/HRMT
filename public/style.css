@@ -378,9 +378,9 @@ h3 {
   border-bottom: solid 1px #7f8082;
 }
 
-#countdown_seconds {
+/* #countdown_seconds {
   color: var(--highlight);
-}
+} */
 
 .countdown-number-label {
   text-transform: uppercase;
