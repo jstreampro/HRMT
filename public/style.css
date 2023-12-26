@@ -74,6 +74,11 @@ strong {
   text-transform: uppercase;
 }
 
+.highlight-capital {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -565,33 +570,30 @@ blockquote:before {
   opacity: 0.75;
 }
 
-
-
-#email-dialog{
+#email-dialog {
   width: 90%;
   height: 65vh;
 }
-#email-dialog input{
+#email-dialog input {
   width: 100%;
   line-height: 20px;
 }
-#email-dialog button{
+#email-dialog button {
   cursor: pointer;
 }
-#email-dialog textarea{
+#email-dialog textarea {
   width: 100%;
   height: 300px;
 }
 
-
 @media (max-width: 600px) {
-  #countdown{
+  #countdown {
     padding-left: 0.6rem !important;
   }
   #countdown-numbers {
     grid-template-columns: repeat(4, minmax(70px, 1fr)) !important;
   }
-  .countdown-number-label{
+  .countdown-number-label {
     font-size: 10px !important;
   }
 }
@@ -601,7 +603,7 @@ blockquote:before {
     padding-left: 0.6rem !important;
   }
 
-  #countdown .countdown-number-value{
+  #countdown .countdown-number-value {
     font-size: 40px !important;
   }
 
