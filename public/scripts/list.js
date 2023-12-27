@@ -419,9 +419,10 @@ Send us your condemnation to: Contact@hamasrapedmetoo.info`
     email_data:{
       subject:"Urgent Call for Action: Condemnation of Gender-Based Violence, Release of Hostages, and Fair Coverage",
 body:`Executive Director Sima Bahous,
-      
-We are writing to convey the deep sense of betrayal felt by us, Israeli and Jewish women around the world, due to your actions—or rather, your lack of action.      
-The urgency regarding the lack of full acknowledgment and action from UN Women in response to the atrocities committed against Israeli and Jewish women, men, children and babies by Hamas.
+
+We are writing to convey the deep sense of betrayal felt by us, Israeli and Jewish women around the world, due to your actions—or rather, your lack of action.
+
+The urgency regarding the lack of full acknowledgment and action from UN Women in response to the atrocities committed against Israeli and Jewish women, men, children, and babies by Hamas.
 
 The #Hamas_Raped_MeToo movement remains steadfast in its demand for your immediate and unequivocal condemnation of the sexual assaults, violence, and heinous acts perpetrated against women, men, children, and babies by Hamas terrorists on October 7th.
 
@@ -430,24 +431,23 @@ Additionally, we urgently call for UN Women, under your leadership to take activ
 It is disheartening to note that UN Women's previous condemnation, issued two MONTHS! after the attack, was perceived as weak and unacceptable. We emphasize the critical need for a strong and timely response to condemn these acts of gender-based violence, ensuring justice for the victims.
 
 Your organization has no reason to exist if it remains silent in the face of these atrocities: the apparent rape of Shani Louk, as depicted in a Hamas video, where her naked body is callously thrown into a pickup truck as if she were mere prey; the video showing a young girl, being dragged by her hair into a car, with her crotch area stained with blood; the heart-wrenching cries of a mother being raped by terrorists one after another, while her baby is tragically baked in an oven. And these are just a few among the growing number of horrific testimonies being revealed as the days pass. These were not random acts of violence, but rather actions carried out as per specific written instructions from the terrorist leaders.
+
 The eyewitness reports we’ve seen are too hard to read. One report describes a woman is repeatedly raped by one terrorist after another. Then, the last one mutilates her by chopping her breasts off before murdering her!!
-    
 
-In light of this, we demand:
 
-1. Public Condemnation: A strong, unequivocal condemnation prominently displayed on UN Women's social media platforms and website by December 20th. This statement must reflect a commitment to justice and human rights, rectifying the delay and inadequacy of the previous response.
+Considering this, we demand:
+
+1. Public Condemnation: A strong, unequivocal condemnation prominently displayed on UN Women's social media platforms and website. This statement must reflect a commitment to justice and human rights, rectifying the delay and inadequacy of the previous response.
 
 2. Visibility on 'Wall of Shame': Failure to condemn these acts will result in UN Women being included on our 'Wall of Shame' at www.hamasrapedmetoo.com. We urge your organization to speak out against these crimes to safeguard the rights and safety of women.
 
-3. Change from Black to Pink: Upon issuing a bold public statement of condemnation, we commit to symbolically change UN Women's logo from black to pink on our site, signifying a steadfast commitment to combating gender-based violence.
-
-4. Furthermore, we insist on fair coverage of these events on UN Women's social media platforms. The importance of providing accurate and unbiased information to the public cannot be overstated, and we expect UN Women to play a leading role in promoting justice and awareness.
+3. Furthermore, we insist on fair coverage of these events on UN Women's social media platforms. The importance of providing accurate and unbiased information to the public cannot be overstated, and we expect UN Women to play a leading role in promoting justice and awareness.
 
 We will not let you continue deceiving women worldwide into believing you care about them. We will take whatever action necessary to hold you and your organization accountable.
 
-Break this disgraceful silence at once and undo the shame you have brought upon yourselves. Please send us your public statement of commitment or condemnation as soon as possible, and no later than December 20th. 
+Break this disgraceful silence at once and undo the shame you have brought upon yourselves. Please send us your public statement of commitment or condemnation as soon as possible. 
 
-Your immediate attention to this matter is crucial, and we anticipate receiving your public statement of commitment or condemnation by December 20th. No woman should endure such violence in silence, and we expect that UN Women will stand with us in condemning these acts and advocating for justice.
+Your immediate attention to this matter is crucial, and we anticipate receiving your public statement of commitment or condemnation. No woman should endure such violence in silence, and we expect that UN Women will stand with us in condemning these acts and advocating for justice.
 
 No woman can stay silent! If you don't speak up, it's as if you allow Hamas to rape MeToo!
 
